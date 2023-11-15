@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sohaillazy
-- 👀 I’m interested in AI projects
+- 👀 I’m interested in DS projects
 - 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on Machine learning
+- 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me sohailhabib353@gmail.com
 
 <!---
